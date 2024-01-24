@@ -1,0 +1,19 @@
+.btn_edit_delete {
+    display: flex;
+    gap: 20px;
+}
+.btn_custom_hover:hover {
+    background-color: rgba(2, 129, 154, 0.8);
+    border: 1px solid #c1c1c1;
+    transform: translateY(-3px);
+}
+.swal2-popup{
+    border-radius: 20px;
+    background-color: rgb(76, 74, 74, 0.8);
+    color: white;
+    font-size: 13px;
+    width:350px;
+}
+.swal2-icon.swal2-warning.swal2-icon-show{
+    color:red;
+}
